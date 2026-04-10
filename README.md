@@ -1,6 +1,6 @@
 Hola, soy Daniel. 👋
 
-Desarrollador en formación | Enfocado en Arquitectura de Software y Eficiencia técnica
+Desarrollador en formación | Enfocado en Arquitectura de Software y Patrones de Diseño.
 
 Soy un estudiante de segundo año de la **Tecnicatura Superior en Programación (UTN)** en Argentina.
 Mi enfoque no es solo escribir código que funcione, sino diseñar soluciones robustas, escalables y bien documentadas.
