@@ -14,6 +14,11 @@ Para mí, el orden es fundamental para la escalabilidad. Mi flujo de trabajo par
 * 🗂️ **Trello:** Para la gestión de tareas, seguimiento de lógica de negocio y organización de sprints.
 * 🐙 **GitHub:** Como eje central para el control de versiones, documentación y colaboración técnica.
 
+## ⚡ Fun Fact
+---
+
+Me apasionan los videojuegos, especialmente aquellos con una arquitectura abierta que permite el **modding**. Disfruto contribuyendo a proyectos de **código abierto**, ya que lo considero la forma más efectiva de colaborar y aprender a estructurar sistemas modulares, donde el sentido común y la independencia entre componentes son la clave de un código limpio.
+
 <!--
 **Rakunoshin/Rakunoshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
