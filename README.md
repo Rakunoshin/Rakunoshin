@@ -5,10 +5,14 @@ Desarrollador en formación | Enfocado en Arquitectura de Software y Eficiencia 
 Soy un estudiante de segundo año de la **Tecnicatura Superior en Programación (UTN)** en Argentina.
 Mi enfoque no es solo escribir código que funcione, sino diseñar soluciones robustas, escalables y bien documentadas.
 
-<p align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO_ACA&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO_ACA&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+## 📋 Organización y Workflow
+---
+
+Para mí, el orden es fundamental para la escalabilidad. Mi flujo de trabajo para organizar proyectos se basa en:
+
+* 🎨 **Excalidraw:** Para el diseño de arquitectura, diagramas de flujo y maquetado de ideas.
+* 🗂️ **Trello:** Para la gestión de tareas, seguimiento de lógica de negocio y organización de sprints.
+* 🐙 **GitHub:** Como eje central para el control de versiones, documentación y colaboración técnica.
 
 <!--
 **Rakunoshin/Rakunoshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
